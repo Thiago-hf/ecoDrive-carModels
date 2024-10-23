@@ -1,0 +1,85 @@
+{
+  "carro": [
+    {
+      "id": 1,
+      "imagem": "./public/src/BYD_DOLPHIN.jpg",
+      "marca": "BYD",
+      "modelo": "DOLPHIN",
+      "ano": "2022",
+      "autonomia": "330 KM's",
+      "preco": "R$ 149.800"
+    },
+    {
+      "id": 2,
+      "imagem": "./public/src/TESLA_MODELY.jpg",
+      "marca": "TESLA",
+      "modelo": "MODEL Y",
+      "ano": "2024",
+      "autonomia": "600 KM's",
+      "preco": "R$ 499.000"
+    },
+    {
+      "id": 3,
+      "imagem": "./public/src/GWM_ORA.jpg",
+      "marca": "GWM",
+      "modelo": "ORA",
+      "ano": "2019",
+      "autonomia": "319 KM'S",
+      "preco": "R$ 150.000"
+    },
+    {
+      "id": 4,
+      "imagem": "./public/src/TESLA_MODELS.jpg",
+      "marca": "TESLA",
+      "modelo": "MODEL S",
+      "ano": "2024",
+      "autonomia": "634 KM's",
+      "preco": "R$ 1.276.840"
+    },
+    {
+      "id": 5,
+      "imagem": "./public/src/BYD_SEAL.jpg",
+      "marca": "BYD",
+      "modelo": "SEAL",
+      "ano": "2023",
+      "autonomia": "372 KM's",
+      "preco": "R$ 296.800"
+    },
+    {
+      "id": 6,
+      "imagem": "./public/src/GWM_HAVAL.jpg",
+      "marca": "GWM",
+      "modelo": "HAVAL",
+      "ano": "2022",
+      "autonomia": "113 KM'S",
+      "preco": "R$ 214.000"
+    },
+    {
+      "id": 7,
+      "imagem": "./public/src/BWD_SONG.jpg",
+      "marca": "BYD",
+      "modelo": "SONG",
+      "ano": "2024",
+      "autonomia": "85 KM's",
+      "preco": "R$ 229.800"
+    },
+    {
+      "id": 8,
+      "imagem": "./public/src/TESLA_MODEL3.jpg",
+      "marca": "TESLA",
+      "modelo": "MODEL 3",
+      "ano": "2021",
+      "autonomia": "430 KM's",
+      "preco": "R$ 389.000"
+    },
+    {
+      "id": 9,
+      "imagem": "./public/src/TESLA_CYBERTRUCK.jpg",
+      "marca": "TESLA",
+      "modelo": "CYBERTRUCK",
+      "ano": "2024",
+      "autonomia": "515 KM's",
+      "preco": "R$ 550.000"
+    }
+  ]
+}
